@@ -1,0 +1,11 @@
+{
+  "name": "moi",
+  "version": "0.0.1",
+  "description": "desc",
+  "main": "app.js",
+  "author": "moi",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
